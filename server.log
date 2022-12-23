@@ -1,0 +1,7 @@
+2022/12/20 10:40:57.888485 log.go:24: log file created
+2022/12/20 10:41:12.025633 server.go:17: Vabudi
+2022/12/20 10:41:13.074272 server.go:17: Vabudi
+2022/12/20 10:41:13.749401 server.go:17: Vabudi
+2022/12/20 10:41:14.321169 server.go:17: Vabudi
+2022/12/21 09:54:34.825853 log.go:24: log file created
+2022/12/21 09:54:34.826679 server.go:24: listen tcp4 :8090: bind: address already in use
